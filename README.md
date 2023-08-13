@@ -6,7 +6,7 @@ This relatively simple dataset should be an excellent starting point for EDA, St
 
 Proposed Tasks:
 
-Exploratory Data Analytics
-Statistical hypothesis testing
-Statistical Modeling
-Linear Regression
+1. Exploratory Data Analytics
+2. Statistical hypothesis testing
+3. Statistical Modeling
+4. Linear Regression
